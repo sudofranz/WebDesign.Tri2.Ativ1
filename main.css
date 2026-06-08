@@ -1,0 +1,17 @@
+.login {
+    box-sizing: border-box;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    border: 1px solid red;
+    margin: 0;
+
+    form {
+        border: 1px solid;
+        padding: 1rem;
+
+        label {
+            display: block;
+        }
+    }
+}
